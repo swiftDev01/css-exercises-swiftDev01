@@ -1,0 +1,19 @@
+.shared {
+  background-color: rgba(255, 192, 203, 0.514);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#two {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.three {
+  font-size: 24px;
+}
+
+#another {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
